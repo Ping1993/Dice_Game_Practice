@@ -1,0 +1,253 @@
+/* ID selectors */
+
+
+/* Tag selectors */
+
+body {
+    background-color: #393646;
+    text-align: center;
+    font-family: 'Capriola', sans-serif;
+    margin: 0px;
+    color: #569DAA;
+    
+}
+
+h1 {
+    width: 100%;
+    font-size: 86px;
+    word-spacing: 25px;
+    margin-top: 140px;
+    margin-bottom: 50px;
+    color: #0EA293;
+}
+
+img {
+    width: 180px;
+    height: 220px;
+}
+
+/* Class selectors */
+
+.opening {
+    display: flex;
+    position: relative;
+}
+
+.flag1 {
+    position: absolute;
+    left: 120px;
+    top: 70px;
+    visibility: hidden;
+}
+
+.flag2 {
+    position: absolute;
+    right: 120px;
+    top: 70px;
+    visibility: hidden;
+}
+
+.part1 {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.part2 {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.dice1 {
+    width: 200px;
+    height: 176px;
+    background-color: #850000;
+    margin: auto;
+    border-radius: 6px;
+    padding-top: 4px;
+}
+
+.dice2 {
+    width: 200px;
+    height: 176px;
+    background-color: #850000;
+    margin: 20px auto;
+    border-radius: 6px;
+    padding-top: 4px;
+}
+
+
+.left {
+    display: inline-block;
+    
+}
+
+.c1 {
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin: 12px 6px 12px 6px;
+
+}
+
+.c01 {
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin: 12px 6px 12px 6px;
+
+}
+
+.c2 {
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin: 12px 6px 12px 6px;
+}
+
+.c02 {
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin: 12px 6px 12px 6px;
+}
+
+.c3 {
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin: 12px 6px 0px 6px;
+}
+
+.c03 {
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin: 12px 6px 0px 6px;
+}
+
+.middle {
+    display: inline-block;
+}
+
+.c4 {
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin: 12px 6px 12px 6px;
+}
+
+.c04 {
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin: 12px 6px 12px 6px;
+}
+
+.c5 {
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin: 12px 6px 12px 6px;
+}
+
+.c05 {
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin: 12px 6px 12px 6px;
+}
+
+.c6 {
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin: 12px 6px 0px 6px;
+}
+
+.c06 {
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin: 12px 6px 0px 6px;
+}
+
+.right {
+    display: inline-block;
+}
+
+.c7 {
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin: 12px 6px 12px 6px;
+}
+
+.c07 {
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin: 12px 6px 12px 6px;
+}
+
+.c8 {
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin: 12px 6px 12px 6px;
+}
+
+.c08 {
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin: 12px 6px 12px 6px;
+}
+
+.c9 {
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin: 12px 6px 0px 6px;
+}
+
+.c09 {
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin: 12px 6px 0px 6px;
+}
+
+.footer {
+    margin-top: 200px;
+    margin-bottom: 100px;
+    word-spacing: 20px;
+}
+
+/* The what ifs conditions */
+
+.transparent {
+    background-color: transparent;
+}
+
+.appear {
+    visibility: visible;
+}
+
